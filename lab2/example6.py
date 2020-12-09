@@ -6,4 +6,4 @@ first_distance = 490
 second_distance = 150
 t = (first_distance - second_distance)
 solution = (60 * t) / (v1 + v2)
-print(solution)
+print(solution) 
